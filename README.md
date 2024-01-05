@@ -7,4 +7,26 @@ I want to create something like this:
 
 ![minority-report-style-interface!](minority-report-style-interface.jpg)
 
-Of course I my own personal way 🤣
+Of course in my own personal way 🤣
+
+Packages that is being used:
+
+* open-cv2
+* mediapipe
+* Python 3.10.11
+
+Simple Demo of the project:
+
+![Demo](Screenshot1.jpg)
+
+
+What the programe should do is that each number of fingers you show will do a certain taks:
+
+* 1 Finger = Opens Gmail
+* 2 Fingers = Opens Calendar
+* 3 Fingers = Opens WhatsApp
+* 4 Fingers = Opens Github
+
+
+
+
